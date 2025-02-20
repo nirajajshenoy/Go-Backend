@@ -1,4 +1,4 @@
-module github.com/nirajajshenoy/Go-Backend.git
+module github.com/nirajajshenoy/Go-Backend
 
 go 1.22.5
 
