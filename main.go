@@ -5,7 +5,7 @@ import (
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
-	"github.com/nirajajshenoy/Go-Backend.git/controllers"
+	"github.com/nirajajshenoy/Go-Backend/controllers"
 )
 
 func main() {
